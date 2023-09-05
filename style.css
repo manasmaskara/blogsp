@@ -1,0 +1,29 @@
+html{
+font-family:Arial, Helvetica, sans-serif;
+}
+#body{
+    width: 90%;
+    align-items: center;
+    padding-left: 4%;
+}
+#img1{
+   width: 100%; 
+}
+#HA{
+    padding-bottom: 4%;
+    
+}
+
+#date{
+float: left;
+}
+#time{
+float: right;
+}
+#Head_bio{
+    padding-bottom: 20px;
+    font-style: italic;
+}
+.hding{
+    padding-top: 30px;
+}
